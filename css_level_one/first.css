@@ -1,0 +1,23 @@
+p {
+    color: #ff0000;
+}
+
+div{
+    background-color: #111110;
+    font-family: 'Arial';
+}
+.movies {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 200;
+    background-color: gray;
+}
+.movies ul {
+    font-family: 'Arial';
+    font-weight: 500;
+}
+
+.top { color: #ff00ff;}
+#middle { border: 10px solid #111110;
+            color: #ff0000;    
+        }
+div ul { color: #00ff00;}
